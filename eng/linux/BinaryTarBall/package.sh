@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PREFIX="usr/local"
+PREFIX="usr"
 
 output="${1}"
 MOVE_RULES_TO_ETC="true"
